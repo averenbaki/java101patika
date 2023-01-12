@@ -2,7 +2,7 @@ package PatikaPratik;
 
 import java.util.Scanner;
 
-public class notOrtalama {
+public class C01_notOrtalama {
 
     public static void main(String[] args) {
 
